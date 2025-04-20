@@ -1,0 +1,41 @@
+.edit-customer-container {
+    padding: 2rem;
+    min-height: 100vh;
+    background-color: #f5f5f5;
+  }
+  
+  .edit-customer-form {
+    max-width: 500px;
+    margin: 0 auto;
+    background: white;
+    padding: 2rem;
+    border-radius: 12px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .edit-customer-form div {
+    margin-bottom: 1rem;
+  }
+  
+  .edit-customer-form label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-weight: 600;
+  }
+  
+  .edit-customer-form input {
+    width: 100%;
+    padding: 0.6rem;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+  }
+  
+  .edit-customer-form button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 0.8rem 1.6rem;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+  

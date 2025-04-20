@@ -1,0 +1,48 @@
+.customers-container {
+    padding: 20px;
+    background-color: #f4f7fa;
+  }
+  
+  .customers-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .customers-table th, .customers-table td {
+    padding: 12px;
+    border: 1px solid #ddd;
+  }
+  
+  .customers-table th {
+    background-color: #f2f2f2;
+  }
+  
+  button {
+    padding: 8px 12px;
+    margin-right: 10px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  .add-customer-btn {
+    padding: 10px 20px;
+    background-color: #28a745;
+    color: white;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .add-customer-btn:hover {
+    background-color: #218838;
+  }
+  
